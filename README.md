@@ -2,6 +2,7 @@
 A search engine for the identification of cross-linked protein complexes or proteomes from mass spectrometry data.
 
 ---
+
 ## Notifications
 **pLink® 3 is now available. [Github Release: pLink3](https://github.com/pFindStudio/pLink3/releases).**
 
@@ -18,5 +19,14 @@ A search engine for the identification of cross-linked protein complexes or prot
 * Contact: support@pfind.org. (Alternative: plink@ict.ac.cn )
 
 * Website: http://pfind.org (Alternative: http://pfind.net )
+
+---
+
+## FAQ
+* [FAQ wiki](https://github.com/pFindStudio/pLink3/wiki/FAQ)
+* English: [Self-Troubleshooting for pLink3 Crashes or Prolonged Runtime](https://github.com/pFindStudio/pLink3/wiki/FAQ#Self-Troubleshooting-for-pLink3-Crashes-or-Prolonged-Runtime)
+* 中文: [pLink3运行崩溃或时间过长-自我排查](https://github.com/pFindStudio/pLink3/wiki/FAQ#pLink3运行崩溃或时间过长-自我排查)
+
+
 
 ---
