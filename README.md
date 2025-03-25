@@ -22,11 +22,32 @@ A search engine for the identification of cross-linked protein complexes or prot
 
 ---
 
-## FAQ
-* [FAQ wiki](https://github.com/pFindStudio/pLink3/wiki/FAQ)
-* English: [Self-Troubleshooting for pLink3 Crashes or Prolonged Runtime](https://github.com/pFindStudio/pLink3/wiki/FAQ#Self-Troubleshooting-for-pLink3-Crashes-or-Prolonged-Runtime)
-* 中文: [pLink3运行崩溃或时间过长-自我排查](https://github.com/pFindStudio/pLink3/wiki/FAQ#pLink3运行崩溃或时间过长-自我排查)
+## EasyTutorial & FAQ
+* [Wiki](https://github.com/pFindStudio/pLink3/wiki)
+	* [EasyTutorial](https://github.com/pFindStudio/pLink3/wiki/EasyTutorial)
+	* [FAQ](https://github.com/pFindStudio/pLink3/wiki/FAQ)
+* **English**
+	* **EasyTutorial**
+		* [Choosing MS Data Format](https://github.com/pFindStudio/pLink3/wiki/EasyTutorial#choosing-ms-data-format)
+	* **FAQ**
+		* [Self-Troubleshooting for pLink3 Crashes or Prolonged Runtime](https://github.com/pFindStudio/pLink3/wiki/FAQ#Self-Troubleshooting-for-pLink3-Crashes-or-Prolonged-Runtime)
+* **中文**
+	* **简易教程**
+		* [选择MS Data Format](https://github.com/pFindStudio/pLink3/wiki/EasyTutorial#%E9%80%89%E6%8B%A9ms-data-format)
+	* **高频问题**
+		* [pLink3运行崩溃或时间过长-自我排查](https://github.com/pFindStudio/pLink3/wiki/FAQ#pLink3运行崩溃或时间过长-自我排查)
 
+---
+
+## Traffic Statistics
+* [**GitHub Releases Downloads**](https://raw.githubusercontent.com/NorthblueM/repo-stats/main/data/releases_download_stats_pFindStudio_pLink3.svg)
+  <div align="center">
+	<img
+	  src="https://raw.githubusercontent.com/NorthblueM/repo-stats/main/data/releases_download_stats_pFindStudio_pLink3.svg"
+	  alt="GitHub Releases Downloads"
+	  style="display: block; margin: 0 auto; width: 95%;"
+	/>
+  </div>
 
 
 ---
