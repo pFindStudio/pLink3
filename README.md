@@ -27,7 +27,7 @@ A search engine for the identification of cross-linked protein complexes or prot
 	* [EasyTutorial](https://github.com/pFindStudio/pLink3/wiki/EasyTutorial)
 	* [FAQ](https://github.com/pFindStudio/pLink3/wiki/FAQ)
 
-<hr style="height: 1px; border: none;">
+<hr style="height: 0.5px; border: none;">
 
 * **English**
 	* **EasyTutorial**
@@ -36,7 +36,7 @@ A search engine for the identification of cross-linked protein complexes or prot
 		* [Self-Troubleshooting for pLink3 Crashes or Prolonged Runtime](https://github.com/pFindStudio/pLink3/wiki/FAQ#Self-Troubleshooting-for-pLink3-Crashes-or-Prolonged-Runtime)
 
 
-<hr style="height: 1px; border: none;">
+<hr style="height: 0.5px; border: none;">
 
 * **中文**
 	* **简易教程**
@@ -47,7 +47,7 @@ A search engine for the identification of cross-linked protein complexes or prot
 ---
 
 ## Traffic Statistics
-* [**GitHub Releases Downloads**](https://raw.githubusercontent.com/NorthblueM/repo-stats/main/data/releases_download_stats_pFindStudio_pLink3.svg)
+* **GitHub Releases Downloads**
   <div align="center">
 	<img
 	  src="https://raw.githubusercontent.com/NorthblueM/repo-stats/main/data/releases_download_stats_pFindStudio_pLink3.svg"
