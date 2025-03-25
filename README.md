@@ -26,11 +26,18 @@ A search engine for the identification of cross-linked protein complexes or prot
 * [Wiki](https://github.com/pFindStudio/pLink3/wiki)
 	* [EasyTutorial](https://github.com/pFindStudio/pLink3/wiki/EasyTutorial)
 	* [FAQ](https://github.com/pFindStudio/pLink3/wiki/FAQ)
+
+<hr style="height: 1px; border: none;">
+
 * **English**
 	* **EasyTutorial**
 		* [Choosing MS Data Format](https://github.com/pFindStudio/pLink3/wiki/EasyTutorial#choosing-ms-data-format)
 	* **FAQ**
 		* [Self-Troubleshooting for pLink3 Crashes or Prolonged Runtime](https://github.com/pFindStudio/pLink3/wiki/FAQ#Self-Troubleshooting-for-pLink3-Crashes-or-Prolonged-Runtime)
+
+
+<hr style="height: 1px; border: none;">
+
 * **中文**
 	* **简易教程**
 		* [选择MS Data Format](https://github.com/pFindStudio/pLink3/wiki/EasyTutorial#%E9%80%89%E6%8B%A9ms-data-format)
