@@ -35,7 +35,7 @@ A search engine for the identification of cross-linked protein complexes or prot
 		* [Choosing Multi-process or Multi-thread](https://github.com/pFindStudio/pLink3/wiki/EasyTutorial#choosing-multi-process-or-multi-thread)
 		* [Add New Crosslinker](https://github.com/pFindStudio/pLink3/wiki/EasyTutorial#add-new-crosslinker)
 	* **FAQ**
-		* :star: <a href="https://github.com/pFindStudio/pLink3/wiki/FAQ#Self-Troubleshooting-for-pLink3-Crashes-or-Prolonged-Runtime" style="color:purple; text-decoration:underline"> Self-Troubleshooting for pLink3 Crashes or Prolonged Runtime </a>
+		* :star: **[Self-Troubleshooting for pLink3 Crashes or Prolonged Runtime](https://github.com/pFindStudio/pLink3/wiki/FAQ#Self-Troubleshooting-for-pLink3-Crashes-or-Prolonged-Runtime)**
     		* [How to Reporting Bugs](https://github.com/pFindStudio/pLink3/wiki/FAQ#reporting-bugs)
 		* [Registration Issues](https://github.com/pFindStudio/pLink3/wiki/FAQ#registration-issues)
     		* [License Invalid](https://github.com/pFindStudio/pLink3/wiki/FAQ#license-invalid)
@@ -48,7 +48,7 @@ A search engine for the identification of cross-linked protein complexes or prot
 		* [选择Multi-process或Multi-thread](https://github.com/pFindStudio/pLink3/wiki/EasyTutorial#%E9%80%89%E6%8B%A9multi-process%E6%88%96multi-thread)
 		* [新增交联剂](https://github.com/pFindStudio/pLink3/wiki/EasyTutorial#%E6%96%B0%E5%A2%9E%E4%BA%A4%E8%81%94%E5%89%82)
 	* **高频问题**
-		* :star: <a href="https://github.com/pFindStudio/pLink3/wiki/FAQ#pLink3运行崩溃或时间过长-自我排查" style="color:purple; text-decoration:underline"> pLink3运行崩溃或时间过长-自我排查 </a>
+		* :star: **[pLink3运行崩溃或时间过长-自我排查](https://github.com/pFindStudio/pLink3/wiki/FAQ#pLink3运行崩溃或时间过长-自我排查)**
 			* [如何报告软件bug](https://github.com/pFindStudio/pLink3/wiki/FAQ#%E5%A6%82%E4%BD%95%E6%8A%A5%E5%91%8A%E8%BD%AF%E4%BB%B6bug)
 		* [注册问题](https://github.com/pFindStudio/pLink3/wiki/FAQ#%E6%B3%A8%E5%86%8C%E9%97%AE%E9%A2%98)
     		* [license失效](https://github.com/pFindStudio/pLink3/wiki/FAQ#license%E5%A4%B1%E6%95%88)
