@@ -1,4 +1,7 @@
 # pLink3
+
+![Downloads](https://img.shields.io/github/downloads/pFindStudio/pLink3/total.svg)   ![Release](https://img.shields.io/github/v/release/pFindStudio/pLink3.svg)   ![Downloads_latest](https://img.shields.io/github/downloads/pFindStudio/pLink3/latest/total)
+
 A search engine for the identification of cross-linked protein complexes or proteomes from mass spectrometry data.
 
 ---
